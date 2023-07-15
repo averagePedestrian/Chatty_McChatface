@@ -16,4 +16,4 @@ A chatbot with configurable personalities and expertise area
 
 After running the command, Streamlit will provide a URL (usually http://localhost:8501) that you can open in your web browser to access the application.
 
-NOTE: API keys for OpenAI and Google Custom Search Engine (CSE) are stored in the "secrets.toml" file, located within the ".streamlit" folder in the project directory. Please replace the existing keys with your own API keys to ensure proper functionality.
+NOTE: API keys for OpenAI and Google Custom Search Engine (CSE) need to be put in the "secrets.toml" file, located within the ".streamlit" folder in the project directory. Please replace the existing keys with your own API keys to ensure proper functionality.
