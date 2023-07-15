@@ -1,7 +1,7 @@
 # Chatty_McChatface
 A chatbot with configurable personalities and expertise area
 
-## Installation Steps##
+## Installation Steps
 
 1. Install Python: Download and install Python (version 3.10.5 recommended) from the official [Python website](https://www.python.org/downloads/). Make sure to add Python to your PATH during installation.
 
