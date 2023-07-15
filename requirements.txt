@@ -1,0 +1,13 @@
+openai
+streamlit
+streamlit-chat
+langchain
+gpt-index==0.5.26
+matplotlib
+plotly
+scipy
+scikit-learn
+tenacity
+Wikipedia-API
+tiktoken
+google-api-python-client
